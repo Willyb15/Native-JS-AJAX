@@ -1,6 +1,6 @@
 # Native-JS-AJAX
 #Experimenting with Native JS Ajax - 
-~js
+```js
 XMLHttpRequest.prototype.send;
 XMLHttpRequest.prototype.open
-~
+```
